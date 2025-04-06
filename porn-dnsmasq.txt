@@ -47,6 +47,7 @@ server=/wnacg.com/
 server=/dopaminegirl.com/?order=popular&q=seductively%20looking%20on%20viewer/
 server=/dopaminegirl.com/
 server=/seriesdonghua.net/cosplay/
+server=/seriesdonghua.net/
 server=/acgmhd.com/
 server=/www.hentai-acg.com/
 server=/hentai-acg.com/

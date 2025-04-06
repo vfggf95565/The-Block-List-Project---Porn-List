@@ -39,7 +39,8 @@
 0.0.0.0 www.wnacg.com
 0.0.0.0 wnacg.com
 0.0.0.0 dopaminegirl.com
-0.0.0.0 seriesdonghua.netcosplay
+0.0.0.0 seriesdonghua.net/cosplay
+0.0.0.0 seriesdonghua.net
 0.0.0.0 acgmhd.com
 0.0.0.0 www.hentai-acg.com
 0.0.0.0 hentai-acg.com
