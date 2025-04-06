@@ -1,0 +1,85 @@
+! ------------------------------------[UPDATE]--------------------------------------
+! Title: The Block List Project - Porn List (adguard)
+! Expires: 1 day
+! Homepage: https://blocklist.site
+! Help: https://github.com/blocklistproject/lists/wiki/
+! License: https://unlicense.org
+! Total number of network filters: 500282
+! ------------------------------------[SUPPORT]-------------------------------------
+! You can support by:
+! - reporting false positives
+! - making a donation: https://paypal.me/blocklistproject
+! -------------------------------------[INFO]---------------------------------------
+!
+! Porn list
+! ------------------------------------[FILTERS]-------------------------------------
+||theporndude.vip^
+||porngeek.com^
+||webcamtubexxx.com^
+||xgroovy.com^
+||mlookalporno.com^
+||hentai-time.com^
+||2porno365.net^
+||porno365.net^
+||arabtoons.net^
+||www.hentai.name^
+||hentai.name^
+||fapello.su^
+||lewdgames.to^
+||e-hentai.asia^
+||www.toptoon.net^
+||toptoon.net^
+||zw-net.com^
+||adlt-18.blogspot.com^
+||memojav.com^
+||4kup.net^
+||3dafr4.myjkwd.com^
+||t66y.com^
+||hub.virtamate.com^
+||www.wnacg.com^
+||wnacg.com^
+||dopaminegirl.com^
+||seriesdonghua.netcosplay^
+||acgmhd.com^
+||www.hentai-acg.com^
+||hentai-acg.com^
+||acgn2025.xyz^
+||www.porn-comic.com^
+||porn-comic.com^
+||www.acgxmh.com^
+||acgxmh.com^
+||misskon.com^
+||truegirlsave2.tistory.com^
+||www.seaart.ai^
+||seaart.ai^
+||cn.telegram-porn.com^
+||telegram-porn.com^
+||sexkomix2.comhome^
+||sexkomix2.com^
+||sexkomix.com^
+||rusmillion.ru^
+||nukibooks.com^
+||ch.hentai-one.com^
+||www.comicun.com^
+||comicun.com^
+||sfhlx.com^
+||seman123.xyz^
+||postelka-opt.ru^
+||omegascans.org^
+||hentaislayer.net^
+||comicarab.com^
+||manhatic.com^
+||arabshentai.com^
+||pornxok.com^
+||vk.com/devushkaart^
+||vk.com/sisliz^
+||vk.com/album-201796700_295741185^
+||www.sfhlx.com/default.php^
+||sfhlx.com/default.php^
+||rusmillion.ru/aflmsexarab/archive/index.php/f-6-p-4.html^
+||www.flickr.com/photos/184689552@N04/with/53145240088^
+||www.shutterstock.com/image-photo/gorgeous-blonde-piercing-her-nipple-2398153219^
+||hub.virtamate.com/resources/categories/free.4^
+||www.hentai.name/home.html^
+||xgroovy.com/photos/categories/ai^
+||dopaminegirl.com/?order=popular&q=seductively%20looking%20on%20viewer^

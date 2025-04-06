@@ -1,0 +1,85 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Porn List (dnsmasq)
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 500282
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Porn list
+# ------------------------------------[FILTERS]-------------------------------------
+server=/theporndude.vip/
+server=/porngeek.com/
+server=/webcamtubexxx.com/
+server=/xgroovy.com/
+server=/xgroovy.com/photos/categories/ai/
+server=/mlookalporno.com/
+server=/hentai-time.com/
+server=/vk.com/devushkaart/
+server=/vk.com/sisliz/
+server=/vk.com/album-201796700_295741185/
+server=/2porno365.net/
+server=/porno365.net/
+server=/arabtoons.net/
+server=/www.hentai.name/home.html/
+server=/www.hentai.name/
+server=/hentai.name/
+server=/fapello.su/
+server=/lewdgames.to/
+server=/e-hentai.asia/
+server=/www.toptoon.net/
+server=/toptoon.net/
+server=/zw-net.com/
+server=/adlt-18.blogspot.com/
+server=/memojav.com/
+server=/4kup.net/
+server=/3dafr4.myjkwd.com/
+server=/t66y.com/
+server=/hub.virtamate.com/resources/categories/free.4/
+server=/hub.virtamate.com/
+server=/www.wnacg.com/
+server=/wnacg.com/
+server=/dopaminegirl.com/?order=popular&q=seductively%20looking%20on%20viewer/
+server=/dopaminegirl.com/
+server=/seriesdonghua.net/cosplay/
+server=/acgmhd.com/
+server=/www.hentai-acg.com/
+server=/hentai-acg.com/
+server=/acgn2025.xyz/
+server=/www.porn-comic.com/
+server=/porn-comic.com/
+server=/www.acgxmh.com/
+server=/acgxmh.com/
+server=/www.shutterstock.com/image-photo/gorgeous-blonde-piercing-her-nipple-2398153219/
+server=/misskon.com/
+server=/truegirlsave2.tistory.com/
+server=/www.flickr.com/photos/184689552@N04/with/53145240088/
+server=/www.seaart.ai/
+server=/seaart.ai/
+server=/cn.telegram-porn.com/
+server=/telegram-porn.com/
+server=/sexkomix2.com/home/
+server=/sexkomix2.com/
+server=/sexkomix.com/
+server=/rusmillion.ru/aflmsexarab/archive/index.php/f-6-p-4.html/
+server=/rusmillion.ru/
+server=/nukibooks.com/
+server=/ch.hentai-one.com/
+server=/www.comicun.com/
+server=/comicun.com/
+server=/www.sfhlx.com/default.php/
+server=/sfhlx.com/default.php/
+server=/sfhlx.com/
+server=/seman123.xyz/
+server=/postelka-opt.ru/
+server=/omegascans.org/
+server=/hentaislayer.net/
+server=/comicarab.com/
+server=/manhatic.com/
+server=/arabshentai.com/
+server=/pornxok.com/
